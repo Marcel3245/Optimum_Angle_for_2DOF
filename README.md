@@ -3,4 +3,7 @@ This MATLAB code is designed for a two-link robot leg, aiming to determine the o
 
 
 ![Kinematic analysis of the leg fig1](https://github.com/Marcel3245/Optimum_Angle_for_2DOF/assets/63426816/2aa3ddc1-9748-4ce2-b509-a062dc5b294c)
+
+
+For L1 = 0.10m, L2 = 0.10m 
 ![Optimum angle](https://github.com/Marcel3245/Optimum_Angle_for_2DOF/assets/63426816/f7060959-48c5-4a37-9c10-d361fd2a0ab1)
